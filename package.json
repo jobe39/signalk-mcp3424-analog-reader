@@ -1,0 +1,18 @@
+{
+  "name": "signalk-mcp3424-analog-reader",
+  "version": "1.0.0",
+  "description": "Liest 0-190 Ohm Tanksensoren über MCP3424 aus für Signal K",
+  "main": "index.js",
+  "keywords": [
+    "signalk-node-server-plugin",
+    "signalk-plugin",
+    "signalk",
+    "mcp3424",
+    "i2c"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "i2c-bus": "^5.2.3"
+  }
+}
